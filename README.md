@@ -14,7 +14,7 @@ Bringing the power of AKPOrganik to the world.
 
 📫 How to ... [Learn More](https://linktr.ee/akporganik)
 
-###Stay tuned for the upcoming Airdrops and Campaigns!
+Stay tuned for the upcoming Airdrops and Campaigns!
 
 <!---
 akporganik/akporganik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,12 +4,12 @@
 
 Be a part of [AKP Memberships Club](https://forms.gle/2qNJTgs3fzGdtqKbA) the agricultural revolution with Blockchain and solar energy!
 
-AKPOrganik.com offers both free community members and paid akp credit club memberships to help you Be a part of the Agricultural Revolution with Blockchain and Solar Energy, and more.
+AKPOrganik.com offers both free community members and paid akp credit club memberships to help you.
+Be a part of the Agricultural Revolution with Blockchain and Solar Energy, and more.
 
 💞️ I’m looking for "AKP Partnerships & Ambassadors"
 
 The AKPOrganik ecosystem is a growing network of partners, integrations, projects and other organizations building the future together.
-
 Bringing the power of AKPOrganik to the world.
 
 📫 How to ... [Learn More](https://linktr.ee/akporganik)

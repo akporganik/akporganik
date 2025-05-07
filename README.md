@@ -1,8 +1,8 @@
- 👋 Hi, I’m @akporganik
+  👋 Hi, I’m @akporganik
  
-“Would you like to become an AKP Member or Partner?”  
+“Would you like to [become an AKP Member or Partner?](https://forms.gle/2qNJTgs3fzGdtqKbA)”  
 
-Be a part of AKP Memberships Club the agricultural revolution with Blockchain and solar energy!
+Be a part of [AKP Memberships Club](https://forms.gle/2qNJTgs3fzGdtqKbA) the agricultural revolution with Blockchain and solar energy!
 
 AKPOrganik.com offers both free community members and paid akp credit club memberships to help you Be a part of the Agricultural Revolution with Blockchain and Solar Energy, and more.
 
@@ -13,6 +13,8 @@ The AKPOrganik ecosystem is a growing network of partners, integrations, project
 Bringing the power of AKPOrganik to the world.
 
 📫 How to ... [Learn More](https://linktr.ee/akporganik)
+
+###Stay tuned for the upcoming Airdrops and Campaigns!
 
 <!---
 akporganik/akporganik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
